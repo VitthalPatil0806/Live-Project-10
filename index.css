@@ -1,3 +1,6 @@
+body{
+  background-image: url(home.jpg);
+}
 .nav-items {
     display: flex;
     flex-direction: row;
@@ -129,5 +132,69 @@
     margin-left: 1100px;
     color: #ffffff;
     font-weight: 900;
+  }
+  @media only screen and (max-width:500px) {
+   
+    img[src="white-logo.png"]{
+      margin-top: -280px;
+      margin-left: 0px;
+      width: 90px;
+    }
+    .nav-items{
+      margin-left: 10px;
+      margin-top: -820px;
+      margin-right: 0px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      color: aqua;
+    }
+    h1{
+      margin-top: 50px;
+      font-size: 60px;
+      margin-right: 0px;
+      margin-left: 20px;
+    }
+    .line{
+      margin-left: 0px;
+      width: 480px;
+      margin-top: 0px;
+    }
+    button{
+      margin-top: -680px;
+      margin-bottom: 600px;
+    }
+    .phone{
+      margin-left: 290px;
+      padding: 2px;
+      margin-top: -470px;
+    }
+    .text{
+      margin-left: -200px;
+      margin-right: -0px;
+      margin-top: 500px;
+    }
+    .read{
+      margin-left: 10px;
+      margin-top: 500px;
+    }
+    .bulb{
+      margin-left: -30px;
+      margin-top: 455px;
+    }
+    .puzzle{
+      margin-left: 130px;
+      margin-top: 420px;
+      margin-bottom: 200px;
+    }
+    .text-block{
+      margin-left: -210px;
+      margin-top: 430px;
+      margin-bottom: 100px;
+    }
+    .text-box{
+      margin-left: 10px;
+      margin-top: 400px;
+    }
   }
   
