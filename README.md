@@ -2,7 +2,7 @@
 #### Created By Vitthal Patil <br/>
 [Click On It To Visit My Website]( https://vitthalpatil0806.github.io/Live-Project-10/) <br/>
 # Below Are The ScreenShot Of My Website <br/>
-![]() <br/>
+![](https://github.com/VitthalPatil0806/Live-Project-10/blob/master/Live%20ss%2010.png) <br/>
 # What I Learned From This Project <br/>
 * How Design Over Background Images <br/>
 * Use Of Both HTML And CSS <br/>
